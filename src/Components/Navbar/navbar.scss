@@ -55,9 +55,9 @@
   @media screen and (max-width: 769px) {
     .navBar{
       position: absolute;
-      background: var(--WhileColorDeam);
+      background: lavender;
       height: max-content;
-      width: 100%;
+      width: 80%;
       border-radius: 1rem;
       // top: 5rem;
       top: -500rem;
@@ -83,10 +83,10 @@
             font-size: 1rem;
             font-weight: 600;
             &:hover{
-              color: rosybrown;
+              color: navy;
             }
             &:focus{
-              color: khaki;
+              color: brown;
             }
           }
         }

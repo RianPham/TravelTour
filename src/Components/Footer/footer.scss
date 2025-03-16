@@ -223,3 +223,71 @@
   }
 
 }
+
+@media screen and (min-width: 760px)
+{
+  .footer{
+    .secContent{
+      .footerCard{
+        .footerLinks{
+          grid-template-columns: repeat(3,1fr);
+          padding-bottom: 1rem;
+        }
+
+        .footerDiv{
+          justify-content: space-between;
+          flex-direction: row;
+
+          small{
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 940px)
+{
+  .footer{
+    .secContent{      
+      .contactDiv{
+        flex-direction: row;
+        justify-content: space-between;
+
+        .inputDiv{
+          width: max-content;
+          flex-direction: row;
+          justify-content: flex-start;
+
+          input{
+            width: 60%;
+          }
+
+          .btn{
+            width: max-content;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 1240px)
+{
+  .footer{
+    padding: 3rem 2rem ;
+
+    .secContent{      
+      .footerCard{
+        flex-direction: row;
+        padding: 2rem;
+
+        .footerLinks{
+          grid-template-columns: repeat(3,1fr);
+          padding: 2rem;
+        }
+      }
+    }
+  }
+}

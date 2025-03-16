@@ -28,7 +28,7 @@ const data = [
     location: "France",
     grade: "RELAX",
     price: " $1000",
-    description: "The Eiffel Tower is a historical landmark in the heart of Paris. It's frequently featured as a backdrop in movies and a variety of TV shows. The wrought-iron tower is often labelled as one of the world’s most romantic places to visit. Known to locals as ‘La Tour Eiffel’, the landmark is also the Parisian icon often seen in a variety of souvenirs sold in gift stores across France."
+    description: "The Eiffel Tower is a historical landmark in the heart of Paris. It's frequently featured as a backdrop in movies and a variety of TV shows. The wrought-iron tower is often labelled as one of the world’s most romantic places to visit."
   },
 
   {
@@ -38,7 +38,7 @@ const data = [
     location: "Thailand",
     grade: "CULTURAL", 
     price: " $900",
-    description: "When it comes to Thailand - the land of Golden Temples, surely every tourist has the first impression of the unique temples here. Wat Phra Kaew (known as the Temple of the Emerald Buddha or locally as Wat Phra Sri Rattana Satsadaram) is one of the most important Buddhist temples in Thailand. Located in the historic centre of Bangkok and within the grounds of the Grand Palace, the temple enshrines Phra Kaew Morakot (the Emerald Buddha), the highly revered Buddha image meticulously carved from a single block of jade."
+    description: "When it comes to Thailand - the land of Golden Temples, surely every tourist has the first impression of the unique temples here. Wat Phra Kaew (known as the Temple of the Emerald Buddha or locally as Wat Phra Sri Rattana Satsadaram) is one of the most important Buddhist temples in Thailand."
   },
   
   {
@@ -58,7 +58,7 @@ const data = [
     location: "Peru",
     grade: "ADVENTURE",
     price: " $1500",
-    description: "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers northwest of Cuzco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a tropical mountain climate."
+    description: "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a 2,430-meter mountain ridge. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which is 80 kilometers northwest of Cuzco. The Urubamba River flows past it."
   },
 
   {
@@ -68,7 +68,7 @@ const data = [
     location: "Japan",
     grade: "RELAX",
     price: " $800",
-    description: "At Mount Fuji, you can ski, make snowmen, walk on snowy roads and freely take beautiful photos. On Mount Fuji, many famous ski resorts, luxury resorts and traditional Japanese houses are waiting for you to relax.The most convenient thing is that you can book a tour to visit Mount Fuji. There will be a car to take visitors straight to the 5th station at an altitude of 2,300m and experience exciting activities typical of the land of Phu Tang."
+    description: "At Mount Fuji, you can ski, make snowmen, walk on snowy roads and freely take beautiful photos. On Mount Fuji, many famous ski resorts, luxury resorts and traditional Japanese houses are waiting for you to relax.The most convenient thing is that you can book a tour to visit Mount Fuji."
   },
 
   {
@@ -78,7 +78,7 @@ const data = [
     location: "Australia",
     grade: "CULTURAL",
     price: " $1400",
-    description: "The Sydney Opera House is one of the most iconic buildings in the world. It's located in Sydney Harbour and is a UNESCO World Heritage Site. The Opera House is home to a variety of performing arts venues, including the Concert Hall, Drama Theatre, and Playhouse. The building is also a popular tourist attraction and is often featured in postcards and travel brochures."
+    description: "The Sydney Opera House is one of the most iconic buildings in the world. It's located in Sydney Harbour and is a UNESCO World Heritage Site. The Opera House is home to a variety of performing arts venues, including the Concert Hall, Drama Theatre, and Playhouse."
   },
 
   {
@@ -108,7 +108,7 @@ const data = [
     location: "Viet Nam",
     grade: "RELAX",
     price: " $900",
-    description: "Dragon Bridge is one of the famous bridges in Da Nang that tourists should visit even once when visiting this city. This bridge is famous for its special design in the shape of a Ly Dynasty dragon reaching out to the sea, expressing the beautiful city's strong desire to rise. Visitors can enjoy an impressive night experience with fire and water spray performances. This program usually takes place on weekend evenings (Saturday and Sunday) as well as during major holidays of the year."
+    description: "Dragon Bridge is one of the famous bridges in Da Nang that tourists should visit even once when visiting this city. This bridge is famous for its special design in the shape of a Ly Dynasty dragon reaching out to the sea, expressing the beautiful city's strong desire to rise."
   }
 
 ]
